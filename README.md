@@ -9,7 +9,8 @@ https://orcaforum.kofo.mpg.de/app.php/portal
 Após o registro e o login na página você pode ir para a página de "Downloads" onde será possível baixar a versão 4.2.1 do ORCA e a versão
 do Avogadro otimizada para o Orca.
 
-Mais detalhes em relação aos programas podem ser encontrados nos seguintes sites:
+Mais detalhes em relação aos programas podem ser encontrados nos seguintes sites: <br />
+
 1-https://www.orcasoftware.de/tutorials_orca/index.html <br />
 2-https://sites.google.com/site/orcainputlibrary/home?authuser=0 <br />
 3-https://avogadro.cc/docs/getting-started/introduction/ <br />
