@@ -1,0 +1,67 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -76.2114189969
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : H2O_linear.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        THERMOCHEMISTRY_Energies
+   comment:     The Thermochemistry energies
+   geom. index: 1
+   prop. index: 1
+        Temperature (Kelvin)           :        298.1500000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         18.0150000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :        -76.2114189969
+        Translational Energy (Hartree) :          0.0014162714
+        Rotational Energy (Hartree)    :          0.0009441809
+        Vibrational Energy (Hartree)   :          0.0000000096
+        Number of frequencies          :     9      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0          1          2          3          4          5    
+      0       0.000000   0.000000   0.000000   0.000000   0.000000 -1144.275907
+                   6          7          8    
+      0     -1144.275907 2970.302894 3334.409866
+        Zero Point Energy (Hartree)    :          0.0143631925
+        Inner Energy (Hartree)         :        -76.1946953424
+        Enthalpy (Hartree)             :        -76.1937511333
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0033697739
+        Vibrational entropy            :          0.0000000097
+        Translational entropy          :          0.0033697739
+        Entropy                        :          0.0198135854
+        Gibbs Energy (Hartree)          :        -76.2135647188
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    1
+    Coordinates:
+            O     -4.000000000000    0.000000000000    0.000000000000
+            H     -2.973650000000    0.000000000000    0.000000000000
+            H     -5.026350000000    0.000000000000    0.000000000000
