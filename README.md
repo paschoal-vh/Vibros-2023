@@ -21,7 +21,7 @@ Dentre os arquivos do tutorial estão:
 2-Cálculo do espectro da Acetona <br />
 3-Cálculo do espectro do Ácido Acético <br />
 4-Cálculo do espectro da Água "linear" e com a geometria otimizada (H2O_geom) e com diferentes métodos (H2O_compara_metodo) <br />
-5-Cálculo do espectro da uracila cátion, neutra, ânion e diânion em vácuo e em água (CPCM) <br />
+5-Cálculo do espectro da uracila cátion, neutra e ânion, em vácuo e em água (CPCM) <br />
 
 Estes cálculos foram feitos utilizando um computador com o sistema operacional Windows 11, executando os cálculos do PowerShell.
 Antes de visualizar os resultados dos cálculos, para a versão 4.2.1 do ORCA é necessário converter o output do cálculo usando o seguinte comando:
