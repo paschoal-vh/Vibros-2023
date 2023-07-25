@@ -9,18 +9,19 @@ https://orcaforum.kofo.mpg.de/app.php/portal
 Após o registro e o login na página você pode ir para a página de "Downloads" onde será possível baixar a versão 4.2.1 do ORCA e a versão
 do Avogadro otimizada para o Orca.
 
-Mais detalhes em relação aos programas podem ser encontrados nos seguintes sites:
-1-https://www.orcasoftware.de/tutorials_orca/index.html
-2-https://sites.google.com/site/orcainputlibrary/home?authuser=0
-3-https://avogadro.cc/docs/getting-started/introduction/
+Mais detalhes em relação aos programas podem ser encontrados nos seguintes sites: <br />
+
+1-https://www.orcasoftware.de/tutorials_orca/index.html <br />
+2-https://sites.google.com/site/orcainputlibrary/home?authuser=0 <br />
+3-https://avogadro.cc/docs/getting-started/introduction/ <br />
 
 Dentre os arquivos do tutorial estão:
 
-1-Cálculo do espectro do CCl_4
-2-Cálculo do espectro da Acetona
-3-Cálculo do espectro do Ácido Acético
-4-Cálculo do espectro da Água "linear" e com a geometria otimizada
-5-Cálculo do espectro da uracila cátion, neutra, ânion e diânion em vácuo e em água (CPCM)
+1-Cálculo do espectro do Tetracloreto de Carbono <br />
+2-Cálculo do espectro da Acetona <br />
+3-Cálculo do espectro do Ácido Acético <br />
+4-Cálculo do espectro da Água "linear" e com a geometria otimizada <br />
+5-Cálculo do espectro da uracila cátion, neutra, ânion e diânion em vácuo e em água (CPCM) <br />
 
 Estes cálculos foram feitos utilizando um computador com o sistema operacional Windows 11, executando os cálculos do PowerShell.
 Antes de visualizar os resultados dos cálculos, para a versão 4.2.1 do ORCA é necessário converter o output do cálculo usando o seguinte comando:
