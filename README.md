@@ -20,7 +20,7 @@ Dentre os arquivos do tutorial estão:
 1-Cálculo do espectro do Tetracloreto de Carbono <br />
 2-Cálculo do espectro da Acetona <br />
 3-Cálculo do espectro do Ácido Acético <br />
-4-Cálculo do espectro da Água "linear" e com a geometria otimizada <br />
+4-Cálculo do espectro da Água "linear" e com a geometria otimizada (H2O_geom) e com diferentes métodos (H2O_compara_metodo) <br />
 5-Cálculo do espectro da uracila cátion, neutra, ânion e diânion em vácuo e em água (CPCM) <br />
 
 Estes cálculos foram feitos utilizando um computador com o sistema operacional Windows 11, executando os cálculos do PowerShell.
